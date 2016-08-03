@@ -1,7 +1,9 @@
 .row {
   width: 80%;
-  margin: auto;
+  margin: 10px auto;
   border-bottom: solid red 1px;
+  background-color: #ccc;
+  clear: both;
 }
 .date {
   float: left;
