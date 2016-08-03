@@ -2,7 +2,8 @@
   width: 80%;
   margin: 10px auto;
   border-bottom: solid red 1px;
-  background-color: #ccc;
+}
+.clearfix {
   clear: both;
 }
 .date {
