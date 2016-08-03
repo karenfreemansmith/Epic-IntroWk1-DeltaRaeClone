@@ -1,24 +1,34 @@
-.row {
-  width: 80%;
-  margin: auto;
-  border-bottom: solid red 1px;
+.sidebar {
+  float: right;
+  background-color: #b32d00;
+  width: 25%;
 }
 .date {
   float: left;
   width: 25%;
 }
+
+.venue {
+  float: left;
+  width: 25%;
+}
 .city {
   float: left;
-  width: 50%;
+  width: 25%;
 }
 .buy {
   float: left;
   width: 25%;
 }
 img {
-  width: 100%;
+  width: 75%;
 }
-h2 {
+h3 {
   text-align: center;
-  font-size: 42px;
+  font-size: 30px;
+}
+body {
+  background-image: url("../img/deltarae.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
