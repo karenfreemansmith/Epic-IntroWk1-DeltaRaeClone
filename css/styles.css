@@ -2,6 +2,9 @@
   float: right;
   background-color: #b32d00;
   width: 25%;
+  padding: 5px;
+  margin: 5px;
+  border: solid 4px;
 }
 .date {
   float: left;
