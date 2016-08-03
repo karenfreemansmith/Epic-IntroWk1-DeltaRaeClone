@@ -1,0 +1,24 @@
+.row {
+  width: 80%;
+  margin: auto;
+  border-bottom: solid red 1px;
+}
+.date {
+  float: left;
+  width: 25%;
+}
+.city {
+  float: left;
+  width: 50%;
+}
+.buy {
+  float: left;
+  width: 25%;
+}
+img {
+  width: 100%;
+}
+h2 {
+  text-align: center;
+  font-size: 42px;
+}
