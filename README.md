@@ -1,18 +1,19 @@
-# :dvd: [Delta Rae Clone](http://karenfreemansmith.github.io/deltarae) :musical_score:
+# Delta Rae Clone
+Version 0.0.1: August 3, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io) and [Addison Nishijima](https://github.com/AddisonNishijima)
 
-__Version 1.0.0: August 3, 2016__
-#### by [Karen Freeman-Smith](http://karenfreemansmith.github.io) and [Addison Nishijima](https://github.com/AddisonNishijima)
+### Technologies Used
+HTML, CSS, Git, Github
 
-### Description
-__*Clone of Delta Rae band website to practice applying css floats to a page.*__
+![screenshot of project running](screenshot.png)
 
-## Technologies Used
-HTML, CSS
+## Description
+*[Epicodus](http://epicodus.com) Intro to Programming Week 1 Pair Project with Addison Nishijima: Design a band website to practice using CSS box model and floats. Attempt to clone the Delta Rae website.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-DeltaRaeClone)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
