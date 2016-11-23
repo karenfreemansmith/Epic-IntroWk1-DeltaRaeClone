@@ -1,37 +1,44 @@
-.sidebar {
-  float: right;
-  background-color: #b32d00;
-  width: 25%;
-  padding: 5px;
-  margin: 5px;
-  border: solid 4px;
+.row {
+  padding: 10px;
+  width: 80%;
+  margin: 10px auto;
+  border-bottom: solid #721009 1px;
+}
+.clearfix {
+  clear: both;
 }
 .date {
   float: left;
-  width: 25%;
+  width: 5%;
 }
-
 .venue {
   float: left;
-  width: 25%;
+  width: 60%
 }
 .city {
   float: left;
-  width: 25%;
+  width: 30%;
 }
 .buy {
   float: left;
-  width: 25%;
+  width: 5%;
 }
 img {
-  width: 75%;
+  width: 100%;
 }
-h3 {
+h2 {
+  color: #721009;
   text-align: center;
-  font-size: 30px;
+  text-transform: uppercase;
+  font-size: 42px;
 }
+
 body {
-  background-image: url("../img/deltarae.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+  background: #B19068;
+  margin: 0;
+  font-family: Ariel, sans-serif;
+}
+
+div {
+  font-size: 13px;
 }
