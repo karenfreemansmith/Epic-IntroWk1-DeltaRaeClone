@@ -11,7 +11,7 @@ HTML, CSS, Git, Github
 *[Epicodus](http://epicodus.com) Intro to Programming Week 1 Pair Project with Addison Nishijima: Design a band website to practice using CSS box model and floats. Attempt to clone the Delta Rae website.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-DeltaRaeClone)
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk1-DeltaRaeClone)
 * _OR_
 * Clone directory
 * Open index.html in your favorite browser
